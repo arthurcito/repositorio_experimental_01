@@ -1,0 +1,6 @@
+Exercício de inclusão de arquivo no repositório.
+
+Exemplo:
+
+Cálculo do NBR:
+(($1.band_4 - $1.band_7) / ($1.band_4 + $1.band_7)) * 1000
